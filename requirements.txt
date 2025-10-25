@@ -1,0 +1,19 @@
+# HydraAI Dependencies
+# These are the libraries you need to install
+
+# PyTorch - For neural networks
+torch>=2.0.0
+
+# Flask - For web server (coordinator)
+flask>=2.3.0
+
+# Requests - For HTTP communication (worker to coordinator)
+requests>=2.31.0
+
+# NumPy - For numerical operations
+numpy>=1.24.0
+
+# Transformers - For universal model architecture
+transformers>=4.30.0
+
+# SQLite3 is built into Python, no need to install
